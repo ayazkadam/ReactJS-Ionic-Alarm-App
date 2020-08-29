@@ -1,0 +1,7 @@
+{
+  "name": "simple alarm app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
